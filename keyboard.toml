@@ -15,8 +15,8 @@ output_pins = ["P1_09", "P0_26", "P0_02", "P1_13"]
 # col2row = true
 
 [layout]
-rows = 6
-cols = 4
+rows = 4
+cols = 6
 layers = 4
 keymap = [
     [
