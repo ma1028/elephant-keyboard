@@ -30,37 +30,37 @@ matrix_map = """
 [[layer]]
 name = "default_layer" #optional name for the layer
 keys = """
-30   31   32   33   34   35
-4    5    6    7    8   
-9    10   11   12   
-13   14   15   44   40   42
+Kp1   Kp2   Kp3   Kp4   Kp5   Kp6
+Q     W     E     R     T   
+A     S     D     F   
+Z     X     C     Spacd Enter Backspace
 """
 # layer 1 :
 [[layer]]
 name = "Photoshop_layer" #optional name for the layer
 keys = """
-30   31   32   33   34   35
-4    5    6    7    8   
-9    10   11   12   
-13   14   15   44   40   42
+Kp1   Kp2   Kp3   Kp4   Kp5   Kp6
+Q     W     E     R     T   
+A     S     D     F   
+Z     X     C     Spacd Enter Backspace
 """
 # layer 2 :
 [[layer]]
 name = "eda_layer" #optional name for the layer
 keys = """
-30   31   32   33   34   35
-4    5    6    7    8   
-9    10   11   12   
-13   14   15   44   40   42
+Kp1   Kp2   Kp3   Kp4   Kp5   Kp6
+Q     W     E     R     T   
+A     S     D     F   
+Z     X     C     Spacd Enter Backspace
 """
 # layer 3 :
 [[layer]]
 name = "davinci_layer" #optional name for the layer
 keys = """
-30   31   32   33   34   35
-4    5    6    7    8   
-9    10   11   12   
-13   14   15   44   40   42
+Kp1   Kp2   Kp3   Kp4   Kp5   Kp6
+Q     W     E     R     T   
+A     S     D     F   
+Z     X     C     Spacd Enter Backspace
 """
 
 [light]
