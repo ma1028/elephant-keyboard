@@ -30,7 +30,7 @@ matrix_map = """
 [[layer]]
 name = "default_layer" #optional name for the layer
 keys = """
-Kp1   Kp2   Kp3   Kp4   Kp5   Kp6
+Kc1   Kc2   Kc3   Kc4   Kc5   Kc6
 Q     W     E     R     T   
 A     S     D     F   
 Z     X     C     Spacd Enter Backspace
@@ -39,7 +39,7 @@ Z     X     C     Spacd Enter Backspace
 [[layer]]
 name = "Photoshop_layer" #optional name for the layer
 keys = """
-Kp1   Kp2   Kp3   Kp4   Kp5   Kp6
+Kc1   Kc2   Kc3   Kc4   Kc5   Kc6
 Q     W     E     R     T   
 A     S     D     F   
 Z     X     C     Spacd Enter Backspace
@@ -48,7 +48,7 @@ Z     X     C     Spacd Enter Backspace
 [[layer]]
 name = "eda_layer" #optional name for the layer
 keys = """
-Kp1   Kp2   Kp3   Kp4   Kp5   Kp6
+Kc1   Kc2   Kc3   Kc4   Kc5   Kc6
 Q     W     E     R     T   
 A     S     D     F   
 Z     X     C     Spacd Enter Backspace
@@ -57,7 +57,7 @@ Z     X     C     Spacd Enter Backspace
 [[layer]]
 name = "davinci_layer" #optional name for the layer
 keys = """
-Kp1   Kp2   Kp3   Kp4   Kp5   Kp6
+Kc1   Kc2   Kc3   Kc4   Kc5   Kc6
 Q     W     E     R     T   
 A     S     D     F   
 Z     X     C     Spacd Enter Backspace
