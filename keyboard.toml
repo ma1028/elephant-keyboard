@@ -63,7 +63,7 @@ A     S     D     F
 Z     X     C     Space Enter Backspace
 """
 
-[light]
+#[light]
 # All light pins are high-active by default, uncomment if you want it to be low-active
 # capslock.pin = "PB2"
 # capslock.low_active = true
@@ -83,7 +83,7 @@ battery_adc_pin = "P0_04"
 adc_divider_measured = 2000
 adc_divider_total = 2806
 
-[storage]
+#[storage]
 # Storage feature is enabled by default
 # enabled = false
 
