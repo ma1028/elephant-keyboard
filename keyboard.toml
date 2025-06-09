@@ -1,7 +1,7 @@
 # Documentation: https://haobogu.github.io/rmk/keyboard_configuration.html
 [keyboard]
-name = "Elephant"
-product_name = "Elephant"
+name = "elephant"
+product_name = "elephant"
 vendor_id = 0xFEED
 product_id = 0x6060
 manufacturer = "mark1028"
