@@ -80,8 +80,8 @@ battery_adc_pin = "P0_04"
 #charge_state.low_active = true
 #charge_led.pin = "P0_08"
 #charge_led.low_active = false
-#adc_divider_measured = 2000
-#adc_divider_total = 2806
+adc_divider_measured = 2000
+adc_divider_total = 2806
 
 #[storage]
 # Storage feature is enabled by default
