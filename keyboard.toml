@@ -87,7 +87,7 @@ adc_divider_total = 2820
 # Storage feature is enabled by default
 # enabled = false
 
-Encoder 0
+# Encoder 0
 [[input_device.encoder]]
 pin_a = "P0_13"
 pin_b = "P0_24"
@@ -95,7 +95,7 @@ phase = "resolution" # 分辨率选项，此项为自定义分辨率
 resolution = 10      # 自定义分辨率
 reverse = true       # 旋转方向：反向
 
-Encoder 1
+# Encoder 1
 [[input_device.encoder]]
 pin_a = "P0_09"
 pin_b = "P0_10"
@@ -103,7 +103,7 @@ phase = "resolution"
 resolution = 10
 reverse = true
 
-Encoder 2
+# Encoder 2
 [[input_device.encoder]]
 pin_a = "P0_03"
 pin_b = "P0_28"
