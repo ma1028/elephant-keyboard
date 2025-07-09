@@ -91,24 +91,27 @@ adc_divider_total = 2820
 [[input_device.encoder]]
 pin_a = "P0_13"
 pin_b = "P0_24"
-phase = "resolution" # 分辨率选项，此项为自定义分辨率
-resolution = 3      # 自定义分辨率
+phase = "default" 
+#phase = "resolution" # 分辨率选项，此项为自定义分辨率
+#resolution = 3      # 自定义分辨率
 reverse = true       # 旋转方向：反向
 
 # Encoder 1
 [[input_device.encoder]]
 pin_a = "P0_09"
 pin_b = "P0_10"
-phase = "resolution" 
-resolution = 6
+phase = "default" 
+#phase = "resolution" 
+#resolution = 6
 reverse = true
 
 # Encoder 2
 [[input_device.encoder]]
 pin_a = "P0_03"
 pin_b = "P0_28"
-phase = "resolution"
-resolution = 12
+phase = "default" 
+#phase = "resolution"
+#resolution = 12
 reverse = true 
 
 # Whether to use the MCU's internal pull-up resistor, default to false 是否使用MCU的内部上拉电阻，默认为false
