@@ -95,6 +95,7 @@ pin_b = "P0_24"
 phase = "resolution" # 分辨率选项，此项为自定义分辨率
 resolution = 4      # 自定义分辨率
 reverse = true       # 旋转方向：反向
+internal_pullup = true  # 使用mcu内部上拉电阻
 
 # Encoder 1
 [[input_device.encoder]]
@@ -104,6 +105,7 @@ pin_b = "P0_10"
 phase = "resolution" 
 resolution = 4
 reverse = true
+internal_pullup = true  # 使用mcu内部上拉电阻
 
 # Encoder 2
 [[input_device.encoder]]
@@ -115,7 +117,7 @@ resolution = 4
 reverse = true 
 
 # Whether to use the MCU's internal pull-up resistor, default to false 是否使用MCU的内部上拉电阻，默认为false
-internal_pullup = true  # 使用mcu内部上拉电阻
+internal_pullup = true  # 使用mcu内部上拉电阻，如果编码器没有外接上拉电阻，则必须开启此项功能！
 
 [rmk]
 # The number of available BLE profiles 配对蓝牙设备的数量
