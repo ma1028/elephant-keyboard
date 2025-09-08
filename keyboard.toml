@@ -76,10 +76,10 @@ Z     X     C     Space Enter Backspace
 [ble]
 enabled = true
 battery_adc_pin = "P0_04"
-#charge_state.pin = "P0_07"
-#charge_state.low_active = true
-#charge_led.pin = "P0_08"
-#charge_led.low_active = false
+charge_state.pin = "P0_07"
+charge_state.low_active = true
+charge_led.pin = "P0_08"
+charge_led.low_active = false
 adc_divider_measured = 2000
 adc_divider_total = 2820
 
