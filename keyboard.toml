@@ -3,7 +3,7 @@
 name = "elephant"
 product_name = "elephant"
 vendor_id = 0xFEED
-product_id = 0x6060
+product_id = 0x6066
 manufacturer = "mark1028"
 chip = "nrf52840"
 usb_enable = true
