@@ -1,7 +1,7 @@
 {
   "name": "elephant",
   "vendorId": "0xFEED",
-  "productId": "0x6060",
+  "productId": "0x6066",
   "lighting": "none",
   "matrix": { "rows": 4, "cols": 6 },
   "layouts": {
